@@ -149,7 +149,6 @@ Cada clase tiene su archivo de control correspondiente que demuestra su funciona
 ### Tecnologías Utilizadas
 
 - JavaScript ES6+ (Clases, Módulos, Arrow Functions)
-- Node.js para ejecución
 - Módulos ES6 (import/export)
 - Programación Orientada a Objetos
 
@@ -170,12 +169,7 @@ Los archivos de control se ejecutan directamente desde la consola integrada de V
 // 2. Ejecutar: node NombreDelArchivo.js
 // 3. Ver resultados en la terminal
 
-// Ejemplos de ejecución:
-node ControlCelda.js
-node ControlUsuario.js  
-node ControlVehiculo.js
-// etc...
-```
+
 
 **Archivos ejecutables**:
 - `ControlCelda.js` - Demuestra gestión de celdas
