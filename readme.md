@@ -166,8 +166,7 @@ Los archivos de control se ejecutan directamente desde la consola integrada de V
 ```javascript
 // En Visual Studio Code:
 // 1. Abrir terminal integrada (Ctrl + `)
-// 2. Ejecutar: node NombreDelArchivo.js
-// 3. Ver resultados en la terminal
+// 2. Ver resultados en la terminal
 
 
 
