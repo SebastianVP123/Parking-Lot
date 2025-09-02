@@ -185,11 +185,6 @@ Los archivos de control se ejecutan directamente desde la consola integrada de V
 
 **Enlace al video**:https://youtu.be/bqVq6xF34Wc
 
-En el video se explica:
-- Arquitectura del sistema
-- Funcionamiento de cada clase
-- Demostración práctica de los controles
-- Casos de uso y ejemplos de ejecución
 
 
 ---
